@@ -11,5 +11,7 @@ img src:[How S2D Works](https://learn.microsoft.com/en-us/azure-stack/hci/concep
    - https://learn.microsoft.com/en-us/azure-stack/hci/concepts/storage-spaces-direct-overview 
 2. Storage Spaces Direct in Windows Server 2016
    - https://www.youtube.com/watch?v=raeUiNtMk0E&list=PLQL1JGGe-t0tHR4spF6Z29AP7yB0qcHow&index=33&ab_channel=MicrosoftCloud
-3. Planning Volumes on Azure Stack HCI and Windows Server Clusters
+3. Detailed explanation of S2D in Windows Server 2016
+   - https://www.youtube.com/watch?v=Vq_GOSkWtRk&t=56s&ab_channel=RGEdu
+4. Planning Volumes on Azure Stack HCI and Windows Server Clusters
    - https://learn.microsoft.com/en-us/azure-stack/hci/concepts/plan-volumes
